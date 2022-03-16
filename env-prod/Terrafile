@@ -1,0 +1,3 @@
+tf-aws-vpc:
+  source:  "https://github.com/terraform-aws-modules/terraform-aws-vpc.git"
+  version: "v3.12.0"
